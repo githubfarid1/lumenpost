@@ -7,18 +7,32 @@
 
 Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
 
-## Official Documentation
+## Cara Install & Setup Codebase
+untuk melakukan instalasi project ini, silahkan ikuti langkah langkah berikut :
+1. git clone https://github.com/nurisakbar/marketplace.git
+2. cd marketplace
+3. composer install
+4. cp .env.example .env
+5. sesuaikan konfigurasi database
+6. php artisan key:generate
+7. php artisan jwt:secret
+8. php artisan migrate
+9. php artisan serve
 
-Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
+## Migration & Seeder
+untuk menajalankan migrate sekaligus dengan data dummy, silahkan jalankan perintah:<br>
+php artisan migrate --seed
 
-## Contributing
+## System Requiretmen
 
-Thank you for considering contributing to Lumen! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Security Vulnerabilities
+    PHP >= 7.3
+    OpenSSL PHP Extension
+    PDO PHP Extension
+    Mbstring PHP Extension
 
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
 
-## License
 
-The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Referensi
+https://github.com/surahmans/Lumen-Design-Pattern<br>
+https://github.com/andersao/l5-repository
