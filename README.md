@@ -9,8 +9,8 @@ Laravel Lumen is a stunningly fast PHP micro-framework for building web applicat
 
 ## Cara Install & Setup Codebase
 untuk melakukan instalasi project ini, silahkan ikuti langkah langkah berikut :
-1. git clone https://github.com/nurisakbar/marketplace.git
-2. cd marketplace
+1. git clone https://github.com/githubfarid1/lumenpost.git
+2. cd lumenpost
 3. composer install
 4. cp .env.example .env
 5. sesuaikan konfigurasi database
