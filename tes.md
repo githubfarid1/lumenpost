@@ -3,7 +3,7 @@ Event merupakan .....
 1. login ke aplikasi OpenDK sebagai administrator
 2. klik menu utama *Informasi* dan pilih sub menu *Event* maka anda akan melihat list informasi Event yang tersedia
 
-<img src="https://drive.google.com/file/d/1-RnHVWnCkwbzHx5xmoK9ODRMXbTSw-Iv/view">
+<img src="https://drive.google.com/file/d/1-RnHVWnCkwbzHx5xmoK9ODRMXbTSw-Iv/preview">
 
 ## Menambahkan Data Event
 untuk menambahkan data Event, silahkan klik tombol *Tambah Event* pada bagian kanan atas Daftar Event<br><br>
