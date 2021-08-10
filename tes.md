@@ -4,7 +4,7 @@ Event merupakan .....
 2. klik menu utama *Informasi* dan pilih sub menu *Event* maka anda akan melihat list informasi Event yang tersedia
 
 <img src="https://drive.google.com/file/d/1-RnHVWnCkwbzHx5xmoK9ODRMXbTSw-Iv/preview">
-![image](https://drive.google.com/uc?export=view&id=1-RnHVWnCkwbzHx5xmoK9ODRMXbTSw-Iv)
+<img src="https://drive.google.com/uc?export=view&id=1-RnHVWnCkwbzHx5xmoK9ODRMXbTSw-Iv">
 ## Menambahkan Data Event
 untuk menambahkan data Event, silahkan klik tombol *Tambah Event* pada bagian kanan atas Daftar Event<br><br>
 <img src="https://drive.google.com/file/d/18jbcYG20gFJsVK0b7bZpi5aoLOAoVoH0/view" alt="ok1-Screen-Shot-2021-08-05-at-06-56-23" border="0"><br>
